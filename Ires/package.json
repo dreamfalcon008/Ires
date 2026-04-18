@@ -1,0 +1,25 @@
+{
+  "name": "Ires",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-native": "^0.64.0",
+    "@react-navigation/native": "^6.0.0",
+    "@react-navigation/stack": "^6.0.0",
+    "react-native-gesture-handler": "^2.1.0",
+    "react-native-reanimated": "^2.1.0",
+    "react-native-voice": "^0.4.0",
+    "openai": "^3.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.0",
+    "@babel/preset-env": "^7.14.0",
+    "@babel/preset-react": "^7.14.0"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  }
+}
